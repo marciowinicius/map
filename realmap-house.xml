@@ -953,4 +953,39 @@
   <house name="Liberty Bay #2097" houseid="2097" entryx="32347" entryy="32799" entryz="7" rent="0" townid="12" size="72"/>
   <house name="Liberty Bay Flat #2098" houseid="2098" entryx="32287" entryy="32805" entryz="7" rent="0" townid="12" size="11"/>
   <house name="Flatch" houseid="2099" entryx="32336" entryy="32223" entryz="7" rent="250000" townid="5" size="24"/>
+  <house name="Mind house 1" houseid="2100" entryx="31063" entryy="32240" entryz="7" rent="0" townid="16" size="26"/>
+  <house name="Mind House 2" houseid="2101" entryx="31075" entryy="32243" entryz="7" rent="0" townid="16" size="25"/>
+  <house name="Mind House 3" houseid="2102" entryx="31084" entryy="32241" entryz="7" rent="0" townid="16" size="24"/>
+  <house name="Mind House 4" houseid="2103" entryx="31080" entryy="32236" entryz="7" rent="0" townid="16" size="10"/>
+  <house name="Mind House 5" houseid="2104" entryx="31083" entryy="32228" entryz="7" rent="0" townid="16" size="7"/>
+  <house name="Mind House 6" houseid="2105" entryx="31079" entryy="32234" entryz="7" rent="0" townid="16" size="10"/>
+  <house name="Mind House 7" houseid="2106" entryx="31073" entryy="32228" entryz="7" rent="0" townid="16" size="7"/>
+  <house name="Mind House 8" houseid="2107" entryx="31078" entryy="32236" entryz="7" rent="0" townid="16" size="14"/>
+  <house name="Mind House 9" houseid="2108" entryx="31063" entryy="32237" entryz="7" rent="0" townid="16" size="50"/>
+  <house name="Mind House 10" houseid="2109" entryx="31079" entryy="32227" entryz="7" rent="0" townid="16" size="21"/>
+  <house name="Mind House 11" houseid="2110" entryx="31082" entryy="32218" entryz="7" rent="0" townid="16" size="18"/>
+  <house name="Mind House 12" houseid="2111" entryx="31087" entryy="32225" entryz="7" rent="0" townid="16" size="27"/>
+  <house name="Mind House 13" houseid="2112" entryx="31091" entryy="32225" entryz="7" rent="0" townid="16" size="29"/>
+  <house name="Mind House 14" houseid="2113" entryx="31098" entryy="32216" entryz="7" rent="0" townid="16" size="16"/>
+  <house name="Mind House 15" houseid="2114" entryx="31101" entryy="32224" entryz="7" rent="0" townid="16" size="25"/>
+  <house name="Mind House 16" houseid="2115" entryx="31118" entryy="32216" entryz="7" rent="0" townid="16" size="22"/>
+  <house name="Mind House 17" houseid="2116" entryx="31114" entryy="32224" entryz="7" rent="0" townid="16" size="23"/>
+  <house name="Mind House 18" houseid="2117" entryx="31121" entryy="32217" entryz="7" rent="0" townid="16" size="8"/>
+  <house name="Mind House 19" houseid="2118" entryx="31124" entryy="32226" entryz="7" rent="0" townid="16" size="14"/>
+  <house name="Mind House 20" houseid="2119" entryx="31126" entryy="32228" entryz="7" rent="0" townid="16" size="44"/>
+  <house name="Mind House 21" houseid="2120" entryx="31106" entryy="32229" entryz="7" rent="0" townid="16" size="10"/>
+  <house name="Mind House 22" houseid="2121" entryx="31106" entryy="32232" entryz="7" rent="0" townid="16" size="16"/>
+  <house name="Mind House 23" houseid="2122" entryx="31102" entryy="32239" entryz="7" rent="0" townid="16" size="16"/>
+  <house name="Mind House 24" houseid="2123" entryx="31109" entryy="32230" entryz="7" rent="0" townid="16" size="26"/>
+  <house name="Mind House 25" houseid="2124" entryx="31114" entryy="32239" entryz="7" rent="0" townid="16" size="33"/>
+  <house name="Mind House 26" houseid="2125" entryx="31108" entryy="32244" entryz="7" rent="0" townid="16" size="16"/>
+  <house name="Mind House 27" houseid="2126" entryx="31119" entryy="32244" entryz="7" rent="0" townid="16" size="22"/>
+  <house name="Mind House 28" houseid="2127" entryx="31108" entryy="32249" entryz="7" rent="0" townid="16" size="22"/>
+  <house name="Mind House 29" houseid="2128" entryx="31119" entryy="32249" entryz="7" rent="0" townid="16" size="30"/>
+  <house name="Mind House 30" houseid="2129" entryx="31103" entryy="32241" entryz="7" rent="0" townid="16" size="10"/>
+  <house name="Mind House 31" houseid="2130" entryx="31103" entryy="32249" entryz="7" rent="0" townid="16" size="14"/>
+  <house name="Mind House 32" houseid="2131" entryx="31089" entryy="32258" entryz="7" rent="0" townid="16" size="6"/>
+  <house name="Mind House 33" houseid="2132" entryx="31087" entryy="32254" entryz="7" rent="0" townid="16" size="41"/>
+  <house name="Mind House 34" houseid="2133" entryx="31076" entryy="32256" entryz="7" rent="0" townid="16" size="26"/>
+  <house name="Mind House 35" houseid="2134" entryx="31069" entryy="32250" entryz="7" rent="0" townid="16" size="31"/>
 </houses>
