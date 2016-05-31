@@ -33947,9 +33947,7 @@
   <spawn centerx="32773" centery="32267" centerz="8" radius="1">
     <monster name="Dragon" x="0" y="0" z="8" spawntime="60"/>
   </spawn>
-  <spawn centerx="32315" centery="32268" centerz="8" radius="1">
-    <npc name="Henricus" x="-1" y="0" z="8" spawntime="29"/>
-  </spawn>
+  <spawn centerx="32315" centery="32268" centerz="8" radius="1"/>
   <spawn centerx="32497" centery="32268" centerz="8" radius="1">
     <monster name="Troll Champion" x="0" y="-1" z="8" spawntime="60"/>
   </spawn>
@@ -38431,8 +38429,18 @@
   <spawn centerx="32509" centery="3609" centerz="9" radius="5">
     <monster name="Rotworm" x="0" y="0" z="9" spawntime="60"/>
   </spawn>
+  <spawn centerx="33217" centery="31055" centerz="9" radius="1">
+    <npc name="Nah'Bob" x="0" y="-1" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="33226" centery="31055" centerz="9" radius="1"/>
   <spawn centerx="33220" centery="31059" centerz="9" radius="1">
     <npc name="Xodet" x="1" y="0" z="9" spawntime="30"/>
+  </spawn>
+  <spawn centerx="33229" centery="31060" centerz="9" radius="1">
+    <npc name="Alesar" x="1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="33212" centery="31062" centerz="9" radius="1">
+    <npc name="Rashid" x="0" y="1" z="9" spawntime="60"/>
   </spawn>
   <spawn centerx="33384" centery="31062" centerz="9" radius="5">
     <monster name="Bug" x="-2" y="-1" z="9" spawntime="60"/>
