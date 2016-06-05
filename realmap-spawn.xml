@@ -3940,6 +3940,9 @@
   <spawn centerx="682" centery="523" centerz="5" radius="1">
     <monster name="Efreet" x="0" y="0" z="5" spawntime="60"/>
   </spawn>
+  <spawn centerx="536" centery="528" centerz="5" radius="1">
+    <monster name="Acid Blob" x="0" y="0" z="5" spawntime="60"/>
+  </spawn>
   <spawn centerx="617" centery="528" centerz="5" radius="1">
     <monster name="Blue Djinn" x="0" y="0" z="5" spawntime="60"/>
   </spawn>
@@ -6841,6 +6844,9 @@
   <spawn centerx="625" centery="525" centerz="6" radius="1">
     <monster name="Blue Djinn" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
+  <spawn centerx="538" centery="526" centerz="6" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="6" spawntime="60"/>
+  </spawn>
   <spawn centerx="462" centery="527" centerz="6" radius="1">
     <monster name="Mutated Human" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
@@ -6850,7 +6856,9 @@
   <spawn centerx="691" centery="528" centerz="6" radius="1">
     <monster name="Green Djinn" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
-  <spawn centerx="535" centery="529" centerz="6" radius="1"/>
+  <spawn centerx="535" centery="529" centerz="6" radius="1">
+    <monster name="Mercury Blob" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
   <spawn centerx="694" centery="530" centerz="6" radius="1">
     <monster name="Green Djinn" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
@@ -6911,6 +6919,9 @@
   <spawn centerx="514" centery="543" centerz="6" radius="1">
     <monster name="Mutated Human" x="0" y="0" z="6" spawntime="60"/>
   </spawn>
+  <spawn centerx="544" centery="545" centerz="6" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="6" spawntime="60"/>
+  </spawn>
   <spawn centerx="653" centery="546" centerz="6" radius="1">
     <monster name="Dark Magician" x="0" y="0" z="6" spawntime="60"/>
   </spawn>
@@ -6920,6 +6931,9 @@
   </spawn>
   <spawn centerx="522" centery="549" centerz="6" radius="1">
     <monster name="Mutated Human" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="543" centery="549" centerz="6" radius="1">
+    <monster name="Mercury Blob" x="0" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="493" centery="550" centerz="6" radius="1">
     <monster name="Mercury Blob" x="1" y="0" z="6" spawntime="60"/>
@@ -11756,12 +11770,24 @@
   <spawn centerx="726" centery="511" centerz="7" radius="1">
     <monster name="Infernalist" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="523" centery="512" centerz="7" radius="1">
+    <monster name="Slime" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="473" centery="513" centerz="7" radius="5">
     <monster name="Acid Blob" x="0" y="0" z="7" spawntime="60"/>
     <monster name="Death Blob" x="5" y="0" z="7" spawntime="60"/>
     <monster name="Death Blob" x="5" y="5" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="478" centery="513" centerz="7" radius="5"/>
+  <spawn centerx="529" centery="513" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="538" centery="513" centerz="7" radius="1">
+    <npc name="Bruce" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="568" centery="514" centerz="7" radius="1">
+    <monster name="Skeleton" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="677" centery="514" centerz="7" radius="1">
     <monster name="Green Djinn" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -11778,8 +11804,14 @@
   <spawn centerx="655" centery="518" centerz="7" radius="1">
     <monster name="Green Djinn" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="517" centery="519" centerz="7" radius="1">
+    <monster name="Slime" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="607" centery="520" centerz="7" radius="1">
     <npc name="Haroun" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="557" centery="521" centerz="7" radius="1">
+    <monster name="Skeleton" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="627" centery="521" centerz="7" radius="1">
     <npc name="Nah'Bob" x="0" y="0" z="7" spawntime="60"/>
@@ -11790,8 +11822,20 @@
   <spawn centerx="437" centery="522" centerz="7" radius="5">
     <monster name="Mutated Tiger" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="579" centery="522" centerz="7" radius="1">
+    <monster name="Ghoul" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="736" centery="523" centerz="7" radius="1">
     <monster name="Blue Butterfly" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="530" centery="524" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="552" centery="524" centerz="7" radius="1">
+    <monster name="Skeleton" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="564" centery="524" centerz="7" radius="1">
+    <monster name="Skeleton" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="620" centery="524" centerz="7" radius="1">
     <monster name="Blue Djinn" x="1" y="0" z="7" spawntime="60"/>
@@ -11824,11 +11868,20 @@
   <spawn centerx="479" centery="531" centerz="7" radius="1">
     <monster name="Death Blob" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="528" centery="531" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="535" centery="531" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="447" centery="532" centerz="7" radius="5">
     <monster name="Bog Raider" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="464" centery="532" centerz="7" radius="1">
     <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="568" centery="532" centerz="7" radius="1">
+    <monster name="Skeleton" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="676" centery="534" centerz="7" radius="1">
     <monster name="Green Djinn" x="1" y="0" z="7" spawntime="60"/>
@@ -11842,6 +11895,12 @@
   <spawn centerx="454" centery="536" centerz="7" radius="5">
     <monster name="Mutated Tiger" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="522" centery="536" centerz="7" radius="1">
+    <monster name="Slime" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="562" centery="536" centerz="7" radius="1">
+    <monster name="Skeleton" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="432" centery="537" centerz="7" radius="5">
     <monster name="Death Blob" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -11854,10 +11913,16 @@
   <spawn centerx="438" centery="539" centerz="7" radius="5">
     <monster name="Bog Raider" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="539" centery="539" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="493" centery="540" centerz="7" radius="1">
     <monster name="Bog Raider" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="463" centery="541" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="548" centery="541" centerz="7" radius="1">
     <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="645" centery="541" centerz="7" radius="1">
@@ -11868,6 +11933,12 @@
   </spawn>
   <spawn centerx="486" centery="542" centerz="7" radius="1">
     <monster name="Death Blob" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="536" centery="542" centerz="7" radius="1">
+    <monster name="Slime" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="527" centery="545" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="656" centery="545" centerz="7" radius="1">
     <monster name="Dark Magician" x="0" y="0" z="7" spawntime="60"/>
@@ -11880,6 +11951,9 @@
   </spawn>
   <spawn centerx="480" centery="547" centerz="7" radius="1">
     <monster name="Death Blob" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="536" centery="547" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="666" centery="549" centerz="7" radius="1">
     <monster name="Dark Magician" x="1" y="0" z="7" spawntime="60"/>
@@ -11895,6 +11969,12 @@
   </spawn>
   <spawn centerx="451" centery="553" centerz="7" radius="5">
     <monster name="Bog Raider" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="517" centery="553" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="529" centery="553" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="602" centery="558" centerz="7" radius="1">
     <monster name="Squirrel" x="1" y="0" z="7" spawntime="60"/>
@@ -11922,6 +12002,9 @@
   <spawn centerx="475" centery="563" centerz="7" radius="1">
     <monster name="Mutated Rat" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="531" centery="563" centerz="7" radius="1">
+    <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="478" centery="565" centerz="7" radius="1">
     <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -11930,6 +12013,9 @@
   </spawn>
   <spawn centerx="468" centery="569" centerz="7" radius="5">
     <monster name="Death Blob" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="523" centery="569" centerz="7" radius="1">
+    <monster name="Slime" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="495" centery="570" centerz="7" radius="1">
     <monster name="Mercury Blob" x="0" y="0" z="7" spawntime="60"/>
@@ -11951,11 +12037,17 @@
   <spawn centerx="487" centery="573" centerz="7" radius="1">
     <monster name="Mutated Human" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="555" centery="573" centerz="7" radius="1">
+    <monster name="Cat" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="494" centery="575" centerz="7" radius="1">
     <monster name="Slime" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="669" centery="577" centerz="7" radius="1">
     <monster name="Rabbit" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="576" centery="578" centerz="7" radius="1">
+    <monster name="Squirrel" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="467" centery="579" centerz="7" radius="1">
     <monster name="Bog Raider" x="0" y="1" z="7" spawntime="60"/>
