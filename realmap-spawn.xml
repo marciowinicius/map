@@ -326,6 +326,9 @@
     <monster name="Vampire Bride" x="-2" y="-2" z="1" spawntime="60"/>
     <monster name="Giant Spider" x="0" y="1" z="1" spawntime="60"/>
   </spawn>
+  <spawn centerx="32983" centery="31539" centerz="1" radius="1">
+    <npc name="Chemar" x="-1" y="0" z="1" spawntime="60"/>
+  </spawn>
   <spawn centerx="32941" centery="31555" centerz="1" radius="2">
     <monster name="Energy Elemental" x="1" y="0" z="1" spawntime="60"/>
   </spawn>
@@ -3227,6 +3230,9 @@
   <spawn centerx="32844" centery="31827" centerz="4" radius="1">
     <monster name="Wasp" x="0" y="1" z="4" spawntime="60"/>
     <monster name="Wasp" x="1" y="1" z="4" spawntime="60"/>
+  </spawn>
+  <spawn centerx="32536" centery="31837" centerz="4" radius="1">
+    <npc name="Chemar" x="0" y="-1" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="33256" centery="31838" centerz="4" radius="1"/>
   <spawn centerx="32584" centery="31840" centerz="4" radius="1">
@@ -25884,6 +25890,10 @@
   <spawn centerx="32718" centery="32631" centerz="7" radius="5">
     <monster name="Cobra" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="32881" centery="32631" centerz="7" radius="5">
+    <monster name="Tiger" x="-4" y="1" z="7" spawntime="60"/>
+    <monster name="spider" x="-5" y="4" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32791" centery="32632" centerz="7" radius="5">
     <monster name="Snake" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -25911,9 +25921,7 @@
   <spawn centerx="32751" centery="32634" centerz="7" radius="5">
     <monster name="Centipede" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="32876" centery="32635" centerz="7" radius="5">
-    <monster name="spider" x="0" y="0" z="7" spawntime="60"/>
-  </spawn>
+  <spawn centerx="32876" centery="32635" centerz="7" radius="5"/>
   <spawn centerx="31885" centery="32636" centerz="7" radius="1">
     <monster name="Scorpion" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -25939,9 +25947,7 @@
   <spawn centerx="32702" centery="32637" centerz="7" radius="5">
     <monster name="Crocodile" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="32885" centery="32638" centerz="7" radius="5">
-    <monster name="Tiger" x="0" y="0" z="7" spawntime="60"/>
-  </spawn>
+  <spawn centerx="32885" centery="32638" centerz="7" radius="5"/>
   <spawn centerx="31885" centery="32639" centerz="7" radius="1">
     <monster name="Pirate Ghost" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
