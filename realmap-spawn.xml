@@ -22451,7 +22451,7 @@
     <monster name="Rabbit" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32363" centery="32205" centerz="7" radius="1">
-    <npc name="Eremo" x="-1" y="0" z="7" spawntime="60"/>
+    <npc name="Grizzly Adams" x="-1" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32687" centery="32205" centerz="7" radius="1">
     <monster name="Wolf" x="1" y="0" z="7" spawntime="60"/>
@@ -22656,7 +22656,7 @@
     <monster name="Hellspawn" x="-2" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32353" centery="32220" centerz="7" radius="1">
-    <npc name="Rowenna" x="1" y="0" z="7" spawntime="60"/>
+    <npc name="Vincent" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32361" centery="32220" centerz="7" radius="1">
     <npc name="Alesar" x="0" y="1" z="7" spawntime="30"/>
@@ -23039,6 +23039,9 @@
   </spawn>
   <spawn centerx="32359" centery="32240" centerz="7" radius="1">
     <npc name="Elane" x="-1" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="32379" centery="32240" centerz="7" radius="1">
+    <npc name="Aldo" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32407" centery="32240" centerz="7" radius="1">
     <monster name="Sheep" x="1" y="0" z="7" spawntime="60"/>
