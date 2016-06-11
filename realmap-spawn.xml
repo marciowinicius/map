@@ -4513,7 +4513,7 @@
   <spawn centerx="32707" centery="3603" centerz="5" radius="5">
     <monster name="Vampire" x="0" y="0" z="5" spawntime="60"/>
   </spawn>
-  <spawn centerx="29978" centery="30008" centerz="5" radius="2">
+  <spawn centerx="29977" centery="30009" centerz="5" radius="1">
     <npc name="Captain Earl" x="-1" y="0" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="33077" centery="31005" centerz="5" radius="3">
@@ -6145,7 +6145,7 @@
   </spawn>
   <spawn centerx="32306" centery="32186" centerz="5" radius="1"/>
   <spawn centerx="32058" centery="32187" centerz="5" radius="5">
-    <npc name="Rashid" x="0" y="-1" z="5" spawntime="60"/>
+    <npc name="Rashid VIP" x="0" y="-1" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="31873" centery="32190" centerz="5" radius="5">
     <monster name="Hydra" x="3" y="-3" z="5" spawntime="60"/>
@@ -10413,7 +10413,9 @@
   <spawn centerx="33099" centery="32166" centerz="6" radius="1">
     <monster name="Elf" x="-1" y="0" z="6" spawntime="60"/>
   </spawn>
-  <spawn centerx="32035" centery="32169" centerz="6" radius="1"/>
+  <spawn centerx="32035" centery="32169" centerz="6" radius="1">
+    <npc name="Gorn" x="-1" y="0" z="6" spawntime="60"/>
+  </spawn>
   <spawn centerx="33096" centery="32169" centerz="6" radius="1">
     <monster name="Elf" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
@@ -20152,7 +20154,7 @@
     <monster name="Amazon" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32018" centery="31948" centerz="7" radius="1">
-    <npc name="Rashid" x="-1" y="0" z="7" spawntime="60"/>
+    <npc name="Rashid VIP" x="-1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32507" centery="31949" centerz="7" radius="1">
     <monster name="Poison spider" x="1" y="0" z="7" spawntime="60"/>
@@ -23337,7 +23339,7 @@
     <monster name="Wolf" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="31092" centery="32245" centerz="7" radius="1">
-    <npc name="Rashid" x="-1" y="0" z="7" spawntime="60"/>
+    <npc name="Rashid VIP" x="-1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="31464" centery="32245" centerz="7" radius="5">
     <monster name="Dragon Lord" x="-4" y="-4" z="7" spawntime="60"/>
