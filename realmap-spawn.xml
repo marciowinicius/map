@@ -2281,7 +2281,7 @@
     <monster name="Trainers 3" x="1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="583" centerz="4" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="60"/>
+    <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="512"/>
     <monster name="Trainers 3" x="-1" y="0" z="4" spawntime="512"/>
     <monster name="Trainers 3" x="-1" y="1" z="4" spawntime="512"/>
   </spawn>
@@ -2324,7 +2324,7 @@
   <spawn centerx="803" centery="599" centerz="4" radius="1">
     <monster name="Trainers 3" x="1" y="-1" z="4" spawntime="512"/>
     <monster name="Trainers 3" x="1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="4" spawntime="60"/>
+    <monster name="Trainers 3" x="1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="599" centerz="4" radius="1">
     <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="512"/>
@@ -4099,7 +4099,7 @@
     <monster name="Trainers 3" x="1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="583" centerz="5" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="5" spawntime="60"/>
+    <monster name="Trainers 3" x="-1" y="-1" z="5" spawntime="512"/>
     <monster name="Trainers 3" x="-1" y="0" z="5" spawntime="512"/>
     <monster name="Trainers 3" x="-1" y="1" z="5" spawntime="512"/>
   </spawn>
@@ -4140,7 +4140,7 @@
     <npc name="Xodet" x="0" y="1" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="599" centerz="5" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="5" spawntime="60"/>
+    <monster name="Trainers 3" x="1" y="-1" z="5" spawntime="512"/>
     <monster name="Trainers 3" x="1" y="0" z="5" spawntime="512"/>
     <monster name="Trainers 3" x="1" y="1" z="5" spawntime="512"/>
   </spawn>
@@ -12345,7 +12345,7 @@
   <spawn centerx="827" centery="599" centerz="7" radius="1">
     <monster name="Trainers 3" x="-1" y="-1" z="7" spawntime="512"/>
     <monster name="Trainers 3" x="-1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Trainers 3" x="-1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="472" centery="602" centerz="7" radius="1">
     <monster name="Cobra" x="0" y="0" z="7" spawntime="60"/>
@@ -69052,142 +69052,6 @@
   <spawn centerx="32574" centery="32215" centerz="15" radius="5">
     <monster name="Rat" x="0" y="0" z="15" spawntime="60"/>
   </spawn>
-  <spawn centerx="32296" centery="32238" centerz="15" radius="20">
-    <monster name="Training Monk" x="-11" y="-17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-17" z="15" spawntime="30"/>
-    <npc name="Lector" x="0" y="-16" z="15" spawntime="60"/>
-    <monster name="Training Monk" x="-11" y="-15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="1" z="15" spawntime="60"/>
-    <monster name="Training Monk" x="11" y="1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="13" z="15" spawntime="60"/>
-    <monster name="Training Monk" x="-1" y="13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="19" z="15" spawntime="30"/>
-    <npc name="Lector" x="0" y="19" z="15" spawntime="60"/>
-    <monster name="Training Monk" x="11" y="19" z="15" spawntime="30"/>
-  </spawn>
-  <spawn centerx="32296" centery="32240" centerz="15" radius="15"/>
-  <spawn centerx="32296" centery="32274" centerz="15" radius="20">
-    <monster name="Training Monk" x="-11" y="-15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="-1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="1" z="15" spawntime="60"/>
-    <monster name="Training Monk" x="11" y="1" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="3" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="5" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="7" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="9" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="11" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="13" z="15" spawntime="60"/>
-    <monster name="Training Monk" x="-1" y="13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="13" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="15" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-11" y="17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="-1" y="17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="1" y="17" z="15" spawntime="30"/>
-    <monster name="Training Monk" x="11" y="17" z="15" spawntime="30"/>
-  </spawn>
-  <spawn centerx="32296" centery="32276" centerz="15" radius="15"/>
   <spawn centerx="33247" centery="32540" centerz="15" radius="5">
     <monster name="Demon Skeleton" x="0" y="0" z="15" spawntime="60"/>
     <monster name="Ghost" x="-1" y="2" z="15" spawntime="60"/>
