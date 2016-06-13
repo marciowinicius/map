@@ -2276,60 +2276,60 @@
     <monster name="Acid Blob" x="0" y="0" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="583" centerz="4" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="583" centerz="4" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="815" centery="586" centerz="4" radius="1">
     <npc name="Lector" x="-1" y="1" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="587" centerz="4" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="587" centerz="4" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="803" centery="591" centerz="4" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="591" centerz="4" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="803" centery="595" centerz="4" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="595" centerz="4" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="4" spawntime="512"/>
   </spawn>
   <spawn centerx="815" centery="596" centerz="4" radius="1">
     <npc name="Xodet" x="0" y="1" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="599" centerz="4" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="827" centery="599" centerz="4" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="4" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="4" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="613" centery="606" centerz="4" radius="1">
     <npc name="Yalahari" x="1" y="0" z="4" spawntime="60"/>
@@ -4094,60 +4094,60 @@
     <monster name="Mercury Blob" x="0" y="0" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="583" centerz="5" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="583" centerz="5" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="815" centery="586" centerz="5" radius="1">
     <npc name="Lector" x="-1" y="1" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="587" centerz="5" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="587" centerz="5" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="803" centery="591" centerz="5" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="591" centerz="5" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="803" centery="595" centerz="5" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="5" spawntime="60"/>
+    <monster name="Training Monk" x="1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="595" centerz="5" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="5" spawntime="512"/>
   </spawn>
   <spawn centerx="815" centery="596" centerz="5" radius="1">
     <npc name="Xodet" x="0" y="1" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="599" centerz="5" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="827" centery="599" centerz="5" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="5" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="5" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="484" centery="619" centerz="5" radius="1">
     <monster name="Barbarian Bloodwalker" x="1" y="0" z="5" spawntime="60"/>
@@ -7142,14 +7142,14 @@
     <monster name="Mutated Human" x="0" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="583" centerz="6" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="583" centerz="6" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="473" centery="584" centerz="6" radius="5">
     <monster name="Acid Blob" x="0" y="0" z="6" spawntime="60"/>
@@ -7161,40 +7161,40 @@
     <npc name="Lector" x="-1" y="1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="587" centerz="6" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="587" centerz="6" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="520" centery="591" centerz="6" radius="1">
     <monster name="Massive Earth Elemental" x="0" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="591" centerz="6" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="591" centerz="6" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="610" centery="593" centerz="6" radius="1">
     <npc name="Yalahari" x="0" y="-1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="595" centerz="6" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="595" centerz="6" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="6" spawntime="512"/>
   </spawn>
   <spawn centerx="496" centery="596" centerz="6" radius="1">
     <monster name="Wyrm" x="0" y="0" z="6" spawntime="60"/>
@@ -7209,14 +7209,14 @@
     <npc name="Yalahari" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="599" centerz="6" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="827" centery="599" centerz="6" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="6" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="6" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="595" centery="600" centerz="6" radius="1">
     <npc name="Yalahari" x="1" y="0" z="6" spawntime="60"/>
@@ -12261,14 +12261,14 @@
     <monster name="Mutated Human" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="583" centerz="7" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="583" centerz="7" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="599" centery="585" centerz="7" radius="1">
     <npc name="Azerus Quest" x="0" y="1" z="7" spawntime="60"/>
@@ -12283,14 +12283,14 @@
     <npc name="Lector" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="587" centerz="7" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="587" centerz="7" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="486" centery="590" centerz="7" radius="1">
     <npc name="Hal" x="0" y="0" z="7" spawntime="60"/>
@@ -12305,14 +12305,14 @@
     <npc name="Golem Guardian" x="-1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="591" centerz="7" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="591" centerz="7" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="433" centery="594" centerz="7" radius="5">
     <monster name="Bog Raider" x="0" y="0" z="7" spawntime="60"/>
@@ -12324,14 +12324,14 @@
     <monster name="Rabbit" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="803" centery="595" centerz="7" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="827" centery="595" centerz="7" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="7" spawntime="512"/>
   </spawn>
   <spawn centerx="458" centery="596" centerz="7" radius="5">
     <monster name="Bog Raider" x="0" y="0" z="7" spawntime="60"/>
@@ -12341,14 +12341,14 @@
   </spawn>
   <spawn centerx="715" centery="599" centerz="7" radius="1"/>
   <spawn centerx="803" centery="599" centerz="7" radius="1">
-    <monster name="Trainers 3" x="1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="827" centery="599" centerz="7" radius="1">
-    <monster name="Trainers 3" x="-1" y="-1" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="0" z="7" spawntime="512"/>
-    <monster name="Trainers 3" x="-1" y="1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="-1" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="0" z="7" spawntime="512"/>
+    <monster name="Training Monk" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="472" centery="602" centerz="7" radius="1">
     <monster name="Cobra" x="0" y="0" z="7" spawntime="60"/>
@@ -69057,6 +69057,7 @@
   </spawn>
   <spawn centerx="32292" centery="32229" centerz="15" radius="10">
     <monster name="Training Monk" x="-7" y="-8" z="15" spawntime="60"/>
+    <npc name="Lector" x="4" y="-7" z="15" spawntime="60"/>
     <monster name="Training Monk" x="-7" y="-6" z="15" spawntime="60"/>
     <monster name="Training Monk" x="-7" y="-4" z="15" spawntime="60"/>
     <monster name="Training Monk" x="-7" y="-2" z="15" spawntime="60"/>
