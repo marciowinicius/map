@@ -23027,9 +23027,6 @@
   <spawn centerx="32361" centery="32227" centerz="7" radius="1">
     <npc name="Xodet" x="1" y="-1" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="32380" centery="32227" centerz="7" radius="1">
-    <npc name="Chemar" x="1" y="-1" z="7" spawntime="60"/>
-  </spawn>
   <spawn centerx="32812" centery="32227" centerz="7" radius="1">
     <monster name="Rat" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -23136,9 +23133,6 @@
   </spawn>
   <spawn centerx="31912" centery="32232" centerz="7" radius="5">
     <monster name="Hydra" x="-1" y="-2" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="32378" centery="32232" centerz="7" radius="1">
-    <npc name="Bozo" x="-1" y="1" z="7" spawntime="30"/>
   </spawn>
   <spawn centerx="32584" centery="32232" centerz="7" radius="1">
     <monster name="Seagull" x="1" y="0" z="7" spawntime="60"/>
@@ -34313,6 +34307,10 @@
     <monster name="Dragon Lord" x="2" y="-5" z="8" spawntime="60"/>
     <monster name="Dragon Lord" x="0" y="4" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="32333" centery="32215" centerz="8" radius="1">
+    <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
+  </spawn>
   <spawn centerx="32373" centery="32215" centerz="8" radius="1">
     <monster name="Rotworm" x="0" y="-1" z="8" spawntime="60"/>
   </spawn>
@@ -34408,6 +34406,10 @@
     <monster name="Grim Reaper" x="2" y="-1" z="8" spawntime="60"/>
     <monster name="Grim Reaper" x="-4" y="0" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="32330" centery="32226" centerz="8" radius="1">
+    <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
+  </spawn>
   <spawn centerx="32388" centery="32226" centerz="8" radius="1">
     <monster name="Rotworm" x="1" y="-1" z="8" spawntime="60"/>
   </spawn>
@@ -34472,6 +34474,10 @@
     <monster name="Dragon Lord" x="0" y="0" z="8" spawntime="60"/>
     <monster name="Dragon Lord" x="2" y="5" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="32369" centery="32230" centerz="8" radius="1">
+    <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
+  </spawn>
   <spawn centerx="32391" centery="32230" centerz="8" radius="1">
     <monster name="Rotworm" x="0" y="-1" z="8" spawntime="60"/>
     <monster name="Rotworm" x="1" y="0" z="8" spawntime="60"/>
@@ -34510,6 +34516,10 @@
   </spawn>
   <spawn centerx="31885" centery="32233" centerz="8" radius="2">
     <monster name="Medusa" x="1" y="1" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="32369" centery="32233" centerz="8" radius="1">
+    <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="30924" centery="32234" centerz="8" radius="5">
     <monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60"/>
@@ -34596,6 +34606,10 @@
   <spawn centerx="31998" centery="32238" centerz="8" radius="1">
     <monster name="Dragon Lord" x="1" y="0" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="32339" centery="32238" centerz="8" radius="1">
+    <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
+  </spawn>
   <spawn centerx="32783" centery="32238" centerz="8" radius="5">
     <monster name="Minotaur guard" x="-5" y="4" z="8" spawntime="60"/>
   </spawn>
@@ -34616,6 +34630,10 @@
     <monster name="Dragon Lord" x="-1" y="5" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="32358" centery="32240" centerz="8" radius="1">
+    <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="32369" centery="32240" centerz="8" radius="1">
     <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
     <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
   </spawn>
@@ -34665,6 +34683,11 @@
     <monster name="Rotworm" x="-5" y="4" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="31899" centery="32244" centerz="8" radius="2"/>
+  <spawn centerx="32339" centery="32244" centerz="8" radius="1">
+    <monster name="Rotworm" x="-1" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="0" y="0" z="8" spawntime="60"/>
+    <monster name="Rotworm" x="-1" y="1" z="8" spawntime="60"/>
+  </spawn>
   <spawn centerx="30955" centery="32245" centerz="8" radius="5">
     <monster name="Grim Reaper" x="-1" y="0" z="8" spawntime="60"/>
   </spawn>
@@ -34684,7 +34707,6 @@
     <monster name="Dragon Lord" x="0" y="0" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="32337" centery="32246" centerz="8" radius="1">
-    <monster name="Rotworm" x="1" y="-1" z="8" spawntime="60"/>
     <monster name="Rotworm" x="1" y="1" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="31805" centery="32247" centerz="8" radius="2">
